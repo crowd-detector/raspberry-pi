@@ -1,0 +1,6 @@
+********************************************************
+remote.it platform and binary tester version 2.3.17 
+Current directory /home/pi/Pan-Tilt-HAT/RaspberryPi/web_Python
+Sun 24 Nov 20:27:25 CST 2019
+********************************************************
+Linux raspberrypi 4.19.66-v7+ #1253 SMP Thu Aug 15 11:49:46 BST 2019 armv7l GNU/Linux

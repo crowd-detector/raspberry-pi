@@ -1,0 +1,1 @@
+scp -i /home/pi/Desktop/crowdkey.pem /home/pi/Desktop/image.jpg ec2-user@ec2-35-174-116-80.compute-1.amazonaws.com:/home/ec2-user/crowddetector/backend/images
